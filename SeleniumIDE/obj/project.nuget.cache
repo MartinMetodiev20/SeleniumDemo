@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xr3zjIi24OE=",
+  "dgSpecHash": "7SyLMvplqNI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martin\\Desktop\\visual studio\\10-Exercise-CI-CD-Jenkins-Resources\\10-Exercise-CI-CD-Jenkins-Resources\\05-SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
+  "projectFilePath": "C:\\Users\\Martin\\Desktop\\visual-studio\\10-Exercise-CI-CD-Jenkins-Resources\\10-Exercise-CI-CD-Jenkins-Resources\\05-SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martin\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
